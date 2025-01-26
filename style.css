@@ -7,5 +7,17 @@ Main background - #D4A76A*/
 .top-of-page {
     width: 1200px;
     height: 300px;
+    /* font: arial; */
     background-color: #FFDBAA;
+}
+
+.top-options{
+    
+    width: 50px;
+    height: 40px;
+    background-color: #805215;
+}
+
+.body-of-page{
+    background-color: #D4A76A;
 }
